@@ -1,1 +1,1 @@
-# Ajdin8199-Razvoj-informacijskih-sistema-Seminarski-rad
+# Razvoj informacijskih sistema - Seminarski rad
